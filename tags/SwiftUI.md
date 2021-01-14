@@ -30,6 +30,11 @@
 - [What enables SwiftUI's DSL?](https://stackoverflow.com/q/56434549/8697793)
 - [SwiftUI list empty state view/modifier](https://stackoverflow.com/q/62398534/8697793)
 
+### Modifiers
+- [Difference between creating ViewModifier and View extension in SwiftUI](https://stackoverflow.com/q/57411656/8697793)
+- [How to apply shadow to interior views in SwiftUI?](https://stackoverflow.com/q/56518868/8697793)
+- [SwiftUI - how to override nested offset/position animations?](https://stackoverflow.com/q/65544581/8697793)
+
 ## Components
 
 ### NavigationView
@@ -86,11 +91,6 @@
 ### Animations
 - Wave: [Fill circle with wave animation in SwiftUI](https://stackoverflow.com/q/63397067/8697793)
 - Heartbeat: [Delay a repeating animation in SwiftUI with between full autoreverse repeat cycles](https://stackoverflow.com/q/65509795/8697793)
-
-### Modifiers
-- [Difference between creating ViewModifier and View extension in SwiftUI](https://stackoverflow.com/q/57411656/8697793)
-- [How to apply shadow to interior views in SwiftUI?](https://stackoverflow.com/q/56518868/8697793)
-- [SwiftUI - how to override nested offset/position animations?](https://stackoverflow.com/q/65544581/8697793)
 
 ## iOS 14
 - [SwiftUI iOS14 - NavigationView + List - Won't fill space](https://stackoverflow.com/q/63938471/8697793)
