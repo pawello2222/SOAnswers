@@ -1,4 +1,4 @@
-# SO Answers
+# Stack Overflow Answers Map
 A collection of useful answers from Stack Overflow.
 
 ## Tags
